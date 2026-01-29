@@ -1,0 +1,7 @@
+{
+  "name": "Tantra | High-Tech Cultural Fusion",
+  "description": "A futuristic portal for the Tantra cultural festival, featuring real-time event synchronization, personnel databases, and neural-linked registration systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
